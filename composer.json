@@ -1,12 +1,12 @@
 {
-    "name": "spondonit/zttp",
+    "name": "blatech/zttp",
     "description": "A developer-experience focused HTTP client, optimized for most common use cases.",
     "keywords": ["http", "guzzle"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Spondonit",
-            "email": "support@spondonit.com"
+            "name": BLATECH
+            "email": "support@blatech.com"
         }
     ],
     "require": {
